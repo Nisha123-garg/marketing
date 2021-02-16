@@ -1,0 +1,462 @@
+
+@media (max-width: 375px) 
+{
+    .navbar
+    {
+        padding: 50px 0px 50px 0px;
+    }
+    #banner p
+    {        
+        font-size: 14px;   
+        margin: 0px 40px;    
+        padding: 10px 10px; 
+    }
+    #banner h1
+    {
+        font-size: 22px;
+    }
+    #section-wrap
+    {
+        padding: 120px 20px 30px 20px;
+    }
+    .content-wrap-inner h2
+    {
+        font-size: 22px;
+    }
+    .content-wrap-inner p
+    {
+        font-size: 16px;
+    }
+    .content-wrap-inner 
+    {
+        padding: 40px 30px 40px 30px;
+    }
+    .content-wrap-inner1
+    {
+        padding: 80px 20px 40px 20px;
+        text-align: justify;
+    }
+    .content-wrap-inner1 p
+    {
+        font-size: 14px;
+    }
+    .content-wrap-inner1 span
+    {
+        font-weight: 500;
+        font-size: 15px;
+    }
+    h3
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .content-wrap-inner2
+    {
+        padding:50px 50px 10px 50px;
+    }
+    .content-wrap-inner3
+    {
+        padding: 50px 50px 30px 60px;
+    }
+    body p
+    {
+      font-size: 12px;
+    }
+    .wrap-img
+    {
+        padding: 0px 30px;
+    }
+    .wrap-box
+    {
+        padding: 60px 0px 20px 0px;
+    }
+    .wrap-padding
+    {
+        padding: 30px 30px;
+    }
+    #section-wrap2
+    {
+        padding: 100px 0px 30px 0px;
+    }
+    #section-wrap3
+    {
+        padding: 260px 0px 90px 0px;
+    }
+    .wrapfoot-content
+    {
+        padding: 10px 50px 70px 50px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 30px;
+    }
+    .contact-button a
+    {
+        padding: 14px 22px;
+        font-size: 13px;
+    }
+    .footer-list ul
+    {
+        text-align: center;
+    }
+    .footer-list li
+    {
+        display: block;   
+    }
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 376.98px) and (max-width: 575.98px)  
+{
+    .navbar
+    {
+        padding: 50px 20px 50px 20px;
+    }
+    #banner p
+    {        
+        font-size: 14px;   
+        margin: 0px 80px;    
+        padding: 10px 20px; 
+    }
+    #banner h1
+    {
+        font-size: 26px;
+    }
+    #section-wrap
+    {
+        padding: 180px 20px 100px 20px;
+    }
+    .content-wrap-inner h2
+    {
+        font-size: 28px;
+    }
+    .content-wrap-inner p
+    {
+        font-size: 18px;
+    }
+    .content-wrap-inner 
+    {
+        padding: 40px 50px 40px 50px;
+    }
+    .content-wrap-inner1
+    {
+        padding: 80px 50px 40px 50px;
+        text-align: justify;
+    }
+    .content-wrap-inner1 p
+    {
+        font-size: 15px;
+    }
+    .content-wrap-inner1 span
+    {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    h3
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .content-wrap-inner2
+    {
+        padding:50px 80px 10px 80px;
+    }
+    .content-wrap-inner3
+    {
+        padding: 50px 80px 30px 90px;
+    }
+    body p
+    {
+      font-size: 12px;
+    }
+    .wrap-img
+    {
+        padding: 0px 60px;
+    }
+    .wrap-box
+    {
+        padding: 60px 0px 20px 0px;
+    }
+    .wrap-padding
+    {
+        padding: 30px 50px;
+    }
+    #section-wrap2
+    {
+        padding: 100px 0px 30px 0px;
+    }
+    #section-wrap3
+    {
+        padding: 260px 0px 90px 0px;
+    }
+    .wrapfoot-content
+    {
+        padding: 20px 70px 80px 70px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 35px;
+    }
+    .contact-button a
+    {
+        padding: 16px 35px;
+        font-size: 16px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 35px;
+    }
+    .contact-button a
+    {
+        padding: 18px 30px;
+        font-size: 16px;
+    }
+    .footer-list ul
+    {
+        text-align: center;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) 
+{
+    .navbar
+    {
+        padding: 50px 0px 50px 0px;
+    }
+    #banner p
+    {        
+        font-size: 16px;   
+        margin: 0px 80px;    
+        padding: 10px 20px; 
+    }
+    #banner h1
+    {
+        font-size: 32px;
+    }
+    #section-wrap
+    {
+        padding: 180px 0px 100px 0px;
+    }
+    .content-wrap-inner h2
+    {
+        font-size: 30px;
+    }
+    .content-wrap-inner p
+    {
+        font-size: 18px;
+    }
+    .content-wrap-inner1
+    {
+        padding: 80px 50px 40px 50px;
+        text-align: justify;
+    }
+    .content-wrap-inner1 p
+    {
+        font-size: 15px;
+    }
+    .content-wrap-inner1 span
+    {
+        font-weight: 500;
+        font-size: 16px;
+    }
+    h3
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .content-wrap-inner2
+    {
+        padding:50px 80px 10px 80px;
+    }
+    .content-wrap-inner3
+    {
+        padding: 50px 80px 30px 90px;
+    }
+    body p
+    {
+      font-size: 14px;
+    }
+    .wrap-img
+    {
+        padding: 0px 60px;
+    }
+    .wrap-box
+    {
+        padding: 60px 60px 20px 60px;
+    }
+    .wrap-padding
+    {
+        padding: 40px 0px;
+    }
+    #section-wrap2
+    {
+        padding: 100px 0px 30px 0px;
+    }
+    #section-wrap3
+    {
+        padding: 260px 0px 90px 0px;
+    }
+    .wrapfoot-content
+    {
+        padding: 20px 70px 100px 70px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 40px;
+    }
+    .contact-button a
+    {
+        padding: 18px 40px;
+        font-size: 16px;
+    }
+    .footer-list ul
+    {
+        text-align: center;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) 
+{
+    .navbar
+    {
+        padding: 50px 0px 50px 0px;
+    }
+    #banner p
+    {        
+        font-size: 18px;   
+        margin: 0px 80px;    
+        padding: 10px 20px; 
+    }
+    #banner h1
+    {
+        font-size: 42px;
+    }
+    .content-wrap-inner h2
+    {
+        font-size: 35px;
+    }
+    .content-wrap-inner p
+    {
+        font-size: 20px;
+    }
+    .content-wrap-inner1
+    {
+        padding: 80px 20px 40px 50px;
+        text-align: justify;
+    }
+    .content-wrap-inner1 span
+    {
+        font-weight: 500;
+        font-size: 17px;
+    }
+    h3
+    {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .content-wrap-inner2
+    {
+        padding:30px 40px 10px 30px;
+    }
+    .content-wrap-inner3
+    {
+        padding: 30px 20px 30px 90px;
+    }
+    body p
+    {
+      font-size: 12px;
+    }
+    
+    .wrap-padding
+    {
+        padding: 18px 0px;
+    }
+    #section-wrap2
+    {
+        padding: 120px 0px 30px 0px;
+    }
+    .wrapfoot-content
+    {
+        padding: 90px 70px 100px 70px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 55px;
+    }
+    .contact-button a
+    {
+        padding: 18px 40px;
+        font-size: 16px;
+    }
+    .footer-list li
+    {
+        margin: 0px 5px;  
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1259.98px) 
+{
+    #banner p
+    {        
+        font-size: 20px;   
+        margin: 0px 180px;    
+        padding: 10px 30px; 
+    }
+    #banner h1
+    {
+        font-size: 52px;
+    }
+    .content-wrap-inner h2
+    {
+        font-size: 100px;
+    }
+    .content-wrap-inner1
+    {
+        padding: 80px 20px 40px 50px;
+        text-align: justify;
+    }
+    h3
+    {
+        font-size: 26px;
+        font-weight: bold;
+    }
+    .content-wrap-inner2
+    {
+        padding:30px 100px 10px 70px;
+    }
+    .content-wrap-inner3
+    {
+        padding: 50px 40px 40px 130px;
+    }
+   
+    .wrap-padding
+    {
+        padding: 28px 0px;
+    }
+    #section-wrap2
+    {
+        padding: 140px 0px 30px 0px;
+    }
+    .wrapfoot-content
+    {
+        padding: 90px 100px 100px 100px;
+    }
+    #section-wrap4 h1
+    {
+        font-size: 65px;
+    }
+    .contact-button a
+    {
+        padding: 18px 40px;
+        font-size: 18px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1260px) 
+{
+    
+}
