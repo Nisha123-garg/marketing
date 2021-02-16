@@ -1,0 +1,260 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.row1
+{
+   border: 2px solid black;  
+}
+.container-fluid
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: #696970;
+}
+h3
+{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+}
+span
+{
+    font-weight: bold;
+}
+header
+{
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+}
+.navbar
+{
+    padding: 50px 50px 50px 0px;
+}
+.menu-item li
+{
+    margin: 0px 25px;
+}
+.menu-item li a
+{
+   color: white !important;
+   font-size: 16px;
+   font-weight: bold;
+   text-transform: uppercase;
+   text-align: center;
+} 
+.menu-item .active
+{
+    border: 2px solid white !important;
+    border-radius: 5px;
+    padding: 0px 10px;
+}
+.menu-item li a:hover
+{
+    color: black !important;
+}
+#banner
+{
+    background-image: url("images/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 240px 0px 240px 0px;
+}
+#banner p
+{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    background-color: rgba(0,0, 0, 0.1);
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin: 0px 220px;
+    text-transform: uppercase;
+}
+#banner h1
+{
+    color: white;
+    font-weight: bold;
+    font-size: 62px;
+    text-transform: uppercase;
+    padding-top: 40px;
+}
+#banner h1 span
+{
+    font-weight: 500;
+}
+#section-wrap
+{
+    padding: 180px 0px 240px 0px;
+}
+.content-wrap-inner h2
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+.content-wrap-inner p
+{
+    font-size: 22px;
+    color: #696970;
+    font-weight: 400;
+}
+.content-wrap
+{
+    background: linear-gradient(to bottom, #bcef00, #20d100);
+    border-radius: 10px;   
+    padding: 12px;
+}
+.content-wrap-inner 
+{
+    background-color: white;
+    padding: 60px 100px 40px 50px;
+    height: 100%;
+    width: 100%;
+}
+.content-wrap-inner1
+{
+    padding: 80px 0px 40px 50px;
+}
+.content-wrap-inner1 p
+{
+    font-size: 17px;
+    color: #696970;
+}
+.content-wrap-inner1 span
+{
+    font-weight: 500;
+    font-size: 19px;
+}
+.content-wrap-inner2
+{
+    padding: 90px 170px 70px 70px;
+}
+#section-wrap1 p
+{
+    color: #696970;
+    padding-top: 10px;
+}
+.border-bottom
+{
+    background:linear-gradient(to right, #25d200, #baef00) ;
+    width: 55%;
+    height: 6px;
+    border-radius: 10px;
+}
+.border-bottom1
+{
+    background:linear-gradient(to right, #25d200, #baef00) ;
+    width: 15%;
+    height: 6px;
+    border-radius: 10px;
+    margin:0px 42%;
+}
+.content-wrap-inner3
+{
+    padding: 140px 100px 90px 130px;
+}
+.wrap-img
+{
+    padding: 0px;
+    margin: 0px; 
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+#section-wrap2
+{
+    padding: 200px 0px 0px 0px;
+}
+.para
+{
+    margin: 0px 24%;
+}
+.wrap-box
+{
+    padding-top: 100px;
+}
+.numbr-c
+{
+   width: 80%;
+   height: auto;
+}
+.wrap-padding
+{
+    padding: 50px 0px;
+}
+#section-wrap3
+{
+    background-image: url("images/back1.jpg");
+    padding: 340px 0px 90px 0px;
+}
+.wrapfoot-content
+{
+    padding: 140px 150px 100px 120px;
+}
+#section-wrap4
+{
+    background-image: url("images/bg.jpg");
+    padding: 120px 0px 90px 0px;
+}
+#section-wrap4 h1
+{
+    font-size: 75px;
+    color: white ;
+    font-weight: bold;
+    text-align: center;
+}
+.contact-button 
+{
+    margin-top: 60px;
+}
+.contact-button a
+{
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding: 20px 50px;
+    border-radius: 60px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.contact-button a:hover
+{
+    text-decoration: none;
+    border: 2px solid white;
+    background-color: transparent;
+}
+#footer-wrap
+{
+    background-color: #eef0ee;
+    padding: 45px 0px 30px 0px;
+} 
+.footer-list ul
+{
+    text-align: right;
+}
+.footer-list li
+{
+    display: inline-block;
+    margin: 0px 15px;
+    text-align: center;    
+}
+.footer-list a
+{
+    color: #696970;
+}
+.footer-list a:hover
+{
+    text-decoration: none;
+    color: #20d100;
+}
